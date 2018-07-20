@@ -1,0 +1,4 @@
+1. add log4j to properties build path
+2. add log4j.properties file to project(ROOT level)
+3. using propertyConfigurator load log4j.properties in the main method
+4. create logger object (in dao class) and called logger methods (info(), error()...)

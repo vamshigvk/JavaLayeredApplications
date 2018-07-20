@@ -1,0 +1,6 @@
+INFO    2018-07-02 11:58:44,303 [main] com.capgemini.logging.Calculator  - divide method called
+DEBUG   2018-07-02 11:58:44,304 [main] com.capgemini.logging.Calculator  - div method called with arg 12,0
+ERROR   2018-07-02 11:58:44,304 [main] com.capgemini.logging.Calculator  - Exception raised as second argument is 0
+INFO    2018-07-02 12:02:30,125 [main] com.capgemini.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:02:30,126 [main] com.capgemini.logging.Calculator  - div method called with arg 12,0
+ERROR   2018-07-02 12:02:30,126 [main] com.capgemini.logging.Calculator  - Exception raised as second argument is 0
